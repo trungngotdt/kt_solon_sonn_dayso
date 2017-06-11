@@ -1,0 +1,11 @@
+// kt_solon_sonn_dayso.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+
+
+int main()
+{
+    return 0;
+}
+
